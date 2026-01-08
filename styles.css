@@ -39,3 +39,16 @@
   font-weight: <weight>;
   font-style: normal;
 }
+
+.fourthcommit {
+  color: brown;
+  font-size: larger;
+  margin-top: 50px;
+  text-align: justify;
+  border: 20px solid black;
+  padding: 30px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
