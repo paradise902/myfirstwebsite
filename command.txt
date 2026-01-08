@@ -1,6 +1,8 @@
 #1 time for each project
 git init
+# everytime 2 add something
 git add .
+#everytime you commit add a little something that changed 
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/paradise902/myfirstwebsite.git
